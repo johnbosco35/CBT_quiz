@@ -290,10 +290,10 @@ export const generalKnowledge: Topic = {
       score:1
     },
     {
-      question: "What's the capital city",
-      choices:[],
+      question: "Which organelle is responsible for detoxifying harmful substances in liver cells?",
+      choices:[`Golgi apparatus`,`Endoplasmic reticulum`,`Lysosome`,`Peroxisome`],
       type: `MCQs`,
-      correctAnswers:[``],
+      correctAnswers:[`Peroxisome`],
       score:1
     },
     {
