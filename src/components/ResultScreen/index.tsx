@@ -128,7 +128,7 @@ const ResultScreen: FC = () => {
   return (
     <ResultScreenContainer>
       <LogoContainer>
-        <AppLogo />
+        {/* <AppLogo /> */}
       </LogoContainer>
       <InnerContainer>
         <ResultOverview result={result} />

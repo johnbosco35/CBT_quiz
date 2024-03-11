@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import styled from 'styled-components'
 
-import { AppLogo } from '../../config/icons'
+import {  Load } from '../../config/icons'
 import { PageCenter } from '../../styles/Global'
 
 interface LogoAnimationProps {
@@ -42,7 +42,7 @@ const SplashScreen = () => {
   return (
     <PageCenter justifyCenter>
       <LogoAnimation logoSize={logoSize}>
-        <AppLogo />
+        <Load/>
       </LogoAnimation>
     </PageCenter>
   )

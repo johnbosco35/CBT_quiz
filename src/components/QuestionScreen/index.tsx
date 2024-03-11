@@ -141,7 +141,7 @@ const QuestionScreen: FC = () => {
   return (
     <PageCenter>
       <LogoContainer>
-        <AppLogo />
+        {/* <AppLogo /> */}
       </LogoContainer>
       <QuizContainer selectedAnswer={selectedAnswer.length > 0}>
         <QuizHeader
