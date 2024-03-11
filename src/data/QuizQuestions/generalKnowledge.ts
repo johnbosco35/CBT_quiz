@@ -269,17 +269,17 @@ export const generalKnowledge: Topic = {
       score:1
     },
     {
-      question: "Solve the equation 2x + 5 =15",
-      choices:[`x=5`,`x= 7.5`,`x= 10`,`x= 6`],
+      question: " If a circle has a radius of 5 units, what is its circumference? (Use π = 3.14)",
+      choices:[`15.7 units`,`31.4 units`,`10 units`, `25 units`],
       type: `MCQs`,
-      correctAnswers:[`x= 5`],
+      correctAnswers:[`31.4 units`],
       score:1
     },
     {
-      question: "if a rectangle has a length of 8 cm and a width of 5 cm, what is its area? ",
-      choices:[`13 cm²`,`20 cm²`,`26 cm²`,`40 cm²`],
+      question: "Which noble gas is commonly used in neon signs",
+      choices:[`Helium`,`Neon`,`Argon`,`Krypton`],
       type: `MCQs`,
-      correctAnswers:[`20 cm²`],
+      correctAnswers:[`Argon`],
       score:1
     },
     {
