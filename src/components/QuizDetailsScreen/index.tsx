@@ -48,9 +48,9 @@ const QuizDetailsScreen = () => {
     <PageCenter light justifyCenter>
       <CenterCardContainer>
         <LogoContainer>
-          <AppLogo />
+          {/* <AppLogo /> */}
         </LogoContainer>
-        <AppTitle>XEVEN QUIZ</AppTitle>
+        <AppTitle>ANTHONY OPARA QUIZ</AppTitle>
         <DetailTextContainer>
           <DetailText>
             Selected Quiz Topic: <HighlightedText>{selectedQuizTopic}</HighlightedText>
