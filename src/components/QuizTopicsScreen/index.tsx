@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-import { AppLogo } from '../../config/icons'
+// import { AppLogo } from '../../config/icons'
 import { useQuiz } from '../../context/QuizContext'
 import { quizTopics } from '../../data/quizTopics'
 import { device } from '../../styles/BreakPoints'
@@ -89,10 +89,10 @@ const QuizTopicsScreen: React.FC = () => {
     <PageCenter light justifyCenter>
       <CenterCardContainer>
         <LogoContainer>
-          <AppLogo />
+          {/* <AppLogo /> */}
         </LogoContainer>
         <Heading>
-          WELCOME TO <HighlightedText> XEVEN QUIZ</HighlightedText>
+          WELCOME TO <HighlightedText> ANTHONY OPARA QUIZ</HighlightedText>
         </Heading>
         <DetailText>Select topic below to start your Quiz.</DetailText>
         <SelectButtonContainer>
