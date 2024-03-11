@@ -1,5 +1,3 @@
-![React Quiz App Template Cover Image](./src/assets/images/ReactJS-Quiz-App-Template.jpg)
-
 # johnbosco35 Quiz - ReactJS Quiz App Template
 
 With **johnbosco35 Quiz**, you don't have to spend hours on coding from scratch. This Quiz App template provides a solid foundation, eliminating the need to reinvent the wheel. You'll spend less time developing your app, which lets you focus on the unique. 
@@ -23,8 +21,6 @@ With **ReactJS** at its core, it lets you design dynamic interfaces that automat
 **TypeScript** brings enhanced development productivity through static typing and intelligent tooling. 
 
 **Styled Components** ensure fast and intuitive styling, allowing you to create stunning interfaces effortlessly.
-
-![React Quiz App Template](./src/assets/images/Xeven-Quiz-App-Screenshots.png)
 
 ## React Quiz App's Theme Features
 
@@ -62,8 +58,6 @@ Before I explain the technical aspects of the quiz app, let me share the wonderf
 
 - **Built with React Best Practices**: App follows industry-leading React practices. Our template ensures optimal structure, scalability, and maintainability.
 
-![types of questions](./src/assets/images/3-types-of-questions.png)
-
 ## johnbosco35 Quiz - ReactJS Quiz App Template Code Documentations
 
 This guide will walk you through the steps to start using and customizing the app according to your needs. The johnbosco35 Quiz is designed to help you create interactive quizzes with various question types, including Multiple Choice Questions (MCQs), Multiple Answer Questions (MAQs), and True/False questions.
@@ -83,8 +77,6 @@ To start the project, follow these steps:
 ### Folder Structure Explanation
 
 Understanding the folder structure is essential for working with the app. Here's an overview of the main folders:
-
-![quiz-app-folder-structure.png](./src/assets/images/quiz-app-folder-structure.png)
 
 - **assets**: Contains all the app's assets, such as fonts, icons, and images
 - **components**: Contains all the components of app
@@ -240,8 +232,6 @@ Import the image in the quiz category data where you want to show it. For more d
 
 Within your question object, add an image key. Then, reference the image you imported in step 2 at the top of your question.
 
-![add question with picture](./src/assets/images/add-images-to-questions.png)
-
 ### How to Add Code Snippets in Questions
 
 Just like images, each question supports a **`code`** key, which is conditionally shown only if the question contains a code snippet.
@@ -253,8 +243,6 @@ In the johnbosco35 Quiz App, code snippets are pieces of code represented as tex
 To display code correctly, we need to pay attention to the spaces and how the code is structured, just like we do with the existing questions. This way, the code will appear neatly formatted and will be easier for users to read and comprehend.
 
 Here's an example image to illustrate the correct format for displaying code snippets:
-
-![code snippet format](./src/assets/images/code-snippet-format.png)
 
 ### Implementing Different Types of Quiz Questions
 
