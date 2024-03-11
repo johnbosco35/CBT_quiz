@@ -1,7 +1,7 @@
 import { FC, useEffect, useState } from 'react'
 import styled from 'styled-components'
 
-import { AppLogo, CheckIcon, Next, TimerIcon } from '../../config/icons'
+import {  CheckIcon, Next, TimerIcon } from '../../config/icons'
 import { useQuiz } from '../../context/QuizContext'
 import { useTimer } from '../../hooks'
 import { device } from '../../styles/BreakPoints'
