@@ -297,10 +297,10 @@ export const generalKnowledge: Topic = {
       score:1
     },
     {
-      question: "What's the capital city",
-      choices:[],
+      question: "What is the largest desert in the world by area?",
+      choices:[`Sahara Desert`,`Gobi Desert`,`Antarctic Desert`,`Arabian Desert`],
       type: `MCQs`,
-      correctAnswers:[``],
+      correctAnswers:[`Antarctic Desert`],
       score:1
     },
     {
