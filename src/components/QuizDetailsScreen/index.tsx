@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-import { AppLogo, StartIcon } from '../../config/icons'
+import { StartIcon } from '../../config/icons'
 import { useQuiz } from '../../context/QuizContext'
 import {
   CenterCardContainer,
