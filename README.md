@@ -1,14 +1,14 @@
 ![React Quiz App Template Cover Image](./src/assets/images/ReactJS-Quiz-App-Template.jpg)
 
-# Xeven Quiz - ReactJS Quiz App Template
+# johnbosco35 Quiz - ReactJS Quiz App Template
 
-With **Xeven Quiz**, you don't have to spend hours on coding from scratch. This Quiz App template provides a solid foundation, eliminating the need to reinvent the wheel. You'll spend less time developing your app, which lets you focus on the unique. 
+With **johnbosco35 Quiz**, you don't have to spend hours on coding from scratch. This Quiz App template provides a solid foundation, eliminating the need to reinvent the wheel. You'll spend less time developing your app, which lets you focus on the unique. 
 
-Xeven Quiz helps you follow industry best practices and coding conventions as a beginner.
+johnbosco35 Quiz helps you follow industry best practices and coding conventions as a beginner.
 
 As a beginner developer, a quiz app is a common project. But without guidance, this simple project can become difficult. 
 
-Xeven Quiz is here to change that narrative and give you the tools and knowledge you need to create a successful and efficient quiz app.
+johnbosco35 Quiz is here to change that narrative and give you the tools and knowledge you need to create a successful and efficient quiz app.
 
 With a strong architecture and modular design, you can easily add new features, expand your question database, and accommodate a growing user base without experiencing any setbacks.
 
@@ -64,9 +64,9 @@ Before I explain the technical aspects of the quiz app, let me share the wonderf
 
 ![types of questions](./src/assets/images/3-types-of-questions.png)
 
-## Xeven Quiz - ReactJS Quiz App Template Code Documentations
+## johnbosco35 Quiz - ReactJS Quiz App Template Code Documentations
 
-This guide will walk you through the steps to start using and customizing the app according to your needs. The Xeven Quiz is designed to help you create interactive quizzes with various question types, including Multiple Choice Questions (MCQs), Multiple Answer Questions (MAQs), and True/False questions.
+This guide will walk you through the steps to start using and customizing the app according to your needs. The johnbosco35 Quiz is designed to help you create interactive quizzes with various question types, including Multiple Choice Questions (MCQs), Multiple Answer Questions (MAQs), and True/False questions.
 
 ## Demo App
 
