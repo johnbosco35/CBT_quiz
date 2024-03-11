@@ -304,10 +304,10 @@ export const generalKnowledge: Topic = {
       score:1
     },
     {
-      question: "What's the capital city",
-      choices:[],
+      question: " In which year did the Apollo 11 mission successfully land humans on the Moon?",
+      choices:[`1965`,`1969`,`1975`,`1981`],
       type: `MCQs`,
-      correctAnswers:[``],
+      correctAnswers:[`1969`],
       score:1
     },
   ],
