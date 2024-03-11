@@ -70,7 +70,7 @@ This guide will walk you through the steps to start using and customizing the ap
 
 ## Demo App
 
-To experience the Demo App, visit the link: https://xeven-quiz.vercel.app/
+To experience the Demo App, visit the link: https://johnbosco35-quiz-app.pages.dev/
 
 ## **How to Start a Project**
 
@@ -99,7 +99,7 @@ Understanding the folder structure is essential for working with the app. Here's
 
 ### Components Architecture
 
-The **Xeven Quiz App** consists of 5 main screens/components that are displayed conditionally:
+The **johnbosco35 Quiz App** consists of 5 main screens/components that are displayed conditionally:
 
 1. Splash Screen
 2. Quiz Topics Screen
@@ -248,7 +248,7 @@ Just like images, each question supports a **`code`** key, which is conditionall
 
 ### How to format code snippet
 
-In the Xeven Quiz App, code snippets are pieces of code represented as text. To make them look nice and readable, we use an npm package called **`prismjs`**. This tool highlights the code with different colors so that it stands out and is easy to understand.
+In the johnbosco35 Quiz App, code snippets are pieces of code represented as text. To make them look nice and readable, we use an npm package called **`prismjs`**. This tool highlights the code with different colors so that it stands out and is easy to understand.
 
 To display code correctly, we need to pay attention to the spaces and how the code is structured, just like we do with the existing questions. This way, the code will appear neatly formatted and will be easier for users to read and comprehend.
 
@@ -270,9 +270,9 @@ Before making the Code Quiz App your own, remember to customize the meta and tit
 
 ## Upgrade to PRO version
 
-Discover the Premium Version! Elevate your experience with the same amazing features you have seen in [demo](https://xeven-quiz.vercel.app/) app. 
+Discover the Premium Version! Elevate your experience with the same amazing features you have seen in [demo](https://johnbosco35-quiz-app.pages.dev/) app. 
 
-[Check it out now!](https://basit313.gumroad.com/l/react-quiz-app-template)
+[Check it out now!](https://github.com/johnbosco35/CBT_quiz)
 
 ### Premium Version Highlights
 
@@ -286,13 +286,12 @@ Almost all the features I have added in this GitHub open source repo.
 
 To share your quiz app with the world, you need to deploy it on a server that supports single-page applications or the React ecosystem. Here are some popular options for deploying your app:
 
-1. Digital Ocean
+1. cloudflare
 2. Vercel
 3. Netlify
-4. AWS Amplify
 
 Choose the one that best suits your needs and follow their deployment instructions to make your app accessible to users.
 
 ### Contact Me
 
-I hope this documentation helps you get started with the Xeven Quiz App. If you have any questions or feedback, please feel free to reach out to me at **[abdul_basit313@outlook.com](mailto:abdul_basit313@outlook.com)**. Happy quizzing!
+I hope this documentation helps you get started with the johnbosco35 Quiz App. If you have any questions or feedback, please feel free to reach out to me at **[okonkwovincent63@gmail.com](okonkwovincent63@gmail.com)**. Happy quizzing!
