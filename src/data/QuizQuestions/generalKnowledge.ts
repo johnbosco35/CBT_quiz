@@ -283,10 +283,10 @@ export const generalKnowledge: Topic = {
       score:1
     },
     {
-      question: "What's the capital city",
-      choices:[],
+      question: "What is the phenomenon where a sound wave reflects off a surface and arrives at the listener's ears slightly later than the direct sound?",
+      choices:[`Refraction`,`Diffraction`,`Reflection`,`Echo`],
       type: `MCQs`,
-      correctAnswers:[``],
+      correctAnswers:[`Echo`],
       score:1
     },
     {
